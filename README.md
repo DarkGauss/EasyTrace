@@ -1,8 +1,8 @@
 
 # Easytrace - Simple error handling in c
-*allows code to be run after a fatal error occurs to gracefully exit
-*prints a detailed stack trace of function calls leading up to error
-*prines line number and custom error text when an error occurs
+* allows code to be run after a fatal error occurs to gracefully exit
+* prints a detailed stack trace of function calls leading up to error
+* prines line number and custom error text when an error occurs
 
 # Usage
 
